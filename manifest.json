@@ -3,7 +3,7 @@
   "minimum_chrome_version": "90",
   "name": "Copy link text",
   "version": "1.0.0",
-  "author": "tophf",
+  "author": "Nick Bolton",
   "description": "Adds a context menu to copy the clicked link's text",
   "permissions": [
     "contextMenus",
